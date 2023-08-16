@@ -5,6 +5,11 @@
 - Maven 3.8.5
 - Java 17
 
+## Diagram
+
+![diagram](schema.png)
+
+
 ## Steps to get started quickly
 
 1. `mvn clean package shade:shade` in the root folder
